@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Hama IT  on 8/24/17 7:55 PM
+  ~ Copyright (c) 2017. All rights reseved.
+  ~
+  ~ Last modified 8/24/17 7:53 PM
+  -->
+
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="external_files" path="."/>
+</paths>

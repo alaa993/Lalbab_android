@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">Lalbab</string>
+    <string name="currency">د.ع\u0020</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">کردنەوە navigation drawer</string>
+    <string name="navigation_drawer_close">داخستن navigation drawer</string>
+
+    <string name="action_settings">ریکخستن</string>
+    <string name="nav_terms">یاساو &amp; رێساکان</string>
+
+    <!-- string.xml -->
+    <string name="nav_home">پەڕاوی سەرەکی</string>
+    <string name="nav_user">بەکارهێنەر</string>
+    <string name="nav_provider">هەژمارەى فرۆژگا </string>
+    <string name="nav_order">داواکارییەکانم</string>
+    <string name="nav_requests">داواكاريە كاني فرۆشگا </string>
+    <string name="nav_profile">فایلی کەسی</string>
+    <string name="nav_shop">دوکانەکم</string>
+    <string name="nav_support">هەڵسەنگاندن</string>
+    <string name="nav_about">ئێمە کێین</string>
+    <string name="nav_review">هەڵسەنگاندن</string>
+    <string name="nav_share">هاوبەشی کردن</string>
+    <string name="nav_logout">چوونەدەرەوە</string>
+
+    <!-- activity_login.xml -->
+    <string name="et_login_phone_hint">ژمارەى مۆبايل </string>
+    <string name="tv_login_email">ئیمیل </string>
+    <string name="tv_login_password">پاسۆرد</string>
+    <string name="btn_login">چونەژورەوە</string>
+    <string name="btn_send">ناردن</string>
+    <string name="tv_login_note">Before continue with application you must verify your mobile number. Our system will sent you OTP code on registered mobile number</string>
+
+    <!-- activity_register.xml -->
+    <string name="tv_reg">تۆماربوون</string>
+    <string name="tv_reg_name_hint">ناو</string>
+    <string name="address">ناونیشان </string>
+    <string name="tv_reg_socity"> ناسنامە</string>
+    <string name="btn_reg_socity_choose">ناسنامەکت هلگرە...</string>
+    <string name="tv_reg_house">ژمارەی خانوو</string>
+    <string name="btn_reg_update">نویکردنەوەی هژمار</string>
+    <string name="et_reg_search">گەران لە ناسنامە...</string>
+    <string name="tv_reg_note">تیبینی : تنها ئم خزمتگوزاریە بردستە </string>
+    <string name="tv_reg_address">ناونیشان</string>
+    <string name="et_reg_address">ناونیشانی تواو</string>
+
+    <!-- fragment_cart.xml -->
+    <string name="tv_cart_title">سەبەتە</string>
+    <string name="tv_cart_clear">لابردنی گشت کالاکان</string>
+    <string name="tv_cart_checkout">داواکاری ناردن</string>
+    <string name="tv_cart_total">کوی گشتی:\u0020</string>
+    <string name="tv_cart_item">کالاکان:\u0020</string>
+    <string name="tv_cart_rs">\u0020د.ع</string>
+    <!-- fragment_delivery_time.xml -->
+    <string name="tv_del_title">کاتوبەرواری گیاندن</string>
+    <string name="tv_del_address">شوینی گیاندن</string>
+    <string name="et_del_address_hint">ناونیشان داخل کە..</string>
+    <string name="tv_del_continue">بەردەوام بوون لە گل کاتدا</string>
+    <string name="tv_del_date">کاتی گیاندن دیاری کە</string>
+    <string name="tv_del_time">کات دیاری کە</string>
+    <string name="tv_del_date_time">کاتوگیاندنی داواکاری</string>
+    <string name="tv_total_item_amount">کوی گشتی پارەو کالاکان</string>
+    <string name="tv_total_total">کۆی گشتی پارە </string>
+
+    <!-- fragment_home.xml -->
+    <string name="tv_home_cat"> فرۆژگاكان </string>
+    <string name="tv_home_view">گشتی نیشان دا ></string>
+
+    <!-- row_product_rv.xml -->
+    <string name="tv_pro_add">زیاد کردن</string>
+    <string name="tv_pro_update">نوی کردنەوە</string>
+    <string name="tv_pro_price"> </string>
+    <string name="tv_pro_rs"> د.ع </string>
+    <string name="tv_pro_total">گشتی: </string>
+
+    <!-- fragment_confirm_order.xml -->
+    <string name="tv_conf_order_title">زانیاری پارادان</string>
+    §
+    <!-- fragment_my_order_detail.xml -->
+    <string name="tv_order_cancle">داواکاری رفز کەوە</string>
+    <string name="tv_order_change">داواکاری بگورە</string>
+    <string name="tv_order_summery">گشتی</string>
+    <string name="tv_order_total">کوی گشتی: د.ع </string>
+    <string name="tv_order_qty">دانە</string>
+    <string name="tv_order_rs">د.ع</string>
+
+    <!-- fragment_order_thanks.xml -->
+    <string name="tv_thanks_title">سوباس بو کرینت .</string>
+    <string name="tv_thanks_home">پەڕاوی سەرەکی</string>
+    <string name="tv_thanks_order">بە دوای داواکاریکە بکەوە</string>
+
+    <!-- Forgot password -->
+    <string name="forgot">پاسۆردت لە بیر کردوە ?</string>
+
+    <!-- Code message and concat  string -->
+    <string name="my_order">داواکاریکانم</string>
+    <string name="edit_profile">هژمار دستکاری کە</string>
+    <string name="delivery">گیاندن</string>
+    <string name="delivery_date">"برواری ناردن: </string>
+    <string name="please_select_date">بروار دیاری کە</string>
+    <string name="no_rcord_found">هیج نە دۆزرایەوە</string>
+    <string name="connection_time_out">Connection Time out</string>
+    <string name="add_delivery_address">ناونیشان زیاد کە</string>
+    <string name="add_product">مواد زیاد بکه</string>
+    <string name="order_now">ئیستە داوا بکە</string>
+    <string name="payment_detail">زانیاری پارادان</string>
+    <string name="delivery_time">کاتی هاتنی داواکاری </string>
+    <string name="please_enter_pincode">بین کود داخل که</string>
+    <string name="receiver_mobile_number">ژمارەی تیلی وەرگر</string>
+    <string name="receiver_name_req">ناوی وەرگر</string>
+    <string name="phone_too_short">ژمارەی تیل زوور کورتە</string>
+    <string name="please_add_address">شوین دیاری کە</string>
+    <string name="please_select_address">شوین دیاری کە</string>
+    <string name="please_select_date_time">کات دیاری کە</string>
+    <string name="profile_updated">هژمار نوی کرایوە</string>
+    <string name="uploading_profile_data">نوی کردنوەی هژمار</string>
+    <string name="cancle_order_note">دلنیای داواکاری رەفز دەکیتەوە ?</string>
+    <string name="no">نەخیر</string>
+    <string name="yes">بلی</string>
+    <string name="thank_you">سوباس</string>
+    <string name="password_too_short">باسۆەرد هەلیە</string>
+    <string name="invalide_email_address">ئیمیل هەلیە</string>
+    <string name="no_internet">انترنیتت نیە</string>
+    <string name="order_no">ژمارەی داواکاری.:\u0020</string>
+    <string name="pending">چاوەروانی</string>
+    <string name="confirm">دلنیاکرایوە</string>
+    <string name="delivered">گیاندراوە</string>
+    <string name="cancle">هەلوەشاندنەوە</string>
+    <string name="date">بەروار:\u0020</string>
+    <string name="time">کات:\u0020</string>
+    <string name="search_msg">گەران لو میوەو سەوزەوات و هتد….</string>
+    <string name="change_password">پاسۆرد بگۆرە</string>
+    <string name="old_password">پاسۆرد کۆن</string>
+    <string name="new_password">پاسۆرد نوی</string>
+    <string name="confirm_password">پاسۆرد دلنیاکەکرەوە</string>
+    <string name="password_not_same">پاسوردەمان وەکو یک نین.</string>
+    <string name="delivery_charge">کڕێی گیاندن:\u0020</string>
+    <string name="amount"> کرێیی گشتی:\u0020</string>
+    <string name="search_here">...لیرە بگەرەی</string>
+    <string name="total_amount">کۆی گشتی:\u0020</string>
+    <string name="search">گەران</string>
+    <string name="enter_keyword">تکایە کی وەرد داخل کە</string>
+    <string name="delete">سرینەوە</string>
+    <string name="edit">دستکاری کردن</string>
+    <string name="description">وەسفکردن:</string>
+
+    <!-- row_delivery_time.xml -->
+    <string name="tv_deli_address">ناونیشان:\u0020</string>
+    <string name="tv_deli_mobile">ژمارەی تیل.:</string>
+    <string name="tv_deli_pin">ناونیشان:</string>
+    <!-- delivery_payment_detail_fragment.java -->
+    <string name="tv_deli_pay_ontime">لە کاتی خویدا :\u0020</string>
+    <string name="tv_deli_pay_address">ناونیشان:\u0020</string>
+    <!-- delivery_get_address_adapter.java -->
+    <string name="reciver_name">ناوی وەرگر:\u0020</string>
+    <string name="reciver_mobile">ژمارەی تیلی وەرگر.:\u0020</string>
+    <string name="pincode">ناونیشان:\u0020</string>
+    <string name="house_no">ژمارەی خانو.:\u0020</string>
+    <string name="tv_note_user">تێبيني :</string>
+    <string name="note_user">تیبێنی بەکارهێنەر :</string>
+    <string name="note_sel">تیبینی فروشیار :</string>
+    <string name="code_not_send">کود نهاتوە</string>
+    <string name="please_input_6">تکایە ٦ ژمارە داخل که</string>
+    <string name="login_sussess">بە سەرکوتویی جویتە ژورەوە</string>
+    <string name="phone_number">ژمارەی تێڵەفون</string>
+    <string name="virify_code">کودی دڵنیایی</string>
+    <string name="code_verify">دڵنیای کود</string>
+    <string name="error_phone">ژمارەی تلەفون هەڵیە</string>
+    <string name="login_filed">چونەژورەوکە کیشەی تێکوت</string>
+    <string name="lang_ku">کوردی</string>
+    <string name="lang_ar">عربي</string>
+    <string name="lang_en">English</string>
+
+    <string name="is_live">كالا هەيە</string>
+    <string name="is_no_live">كالا نەماوە</string>
+    <string name="message_regester">بۆ دروست كردني ئەژمارەى فرۆشگا پەيوەندي بكە بە كۆمپانيا</string>
+    <string name="Confirmation">Confirmation</string>
+
+    <string name="send_codeagin">ارسل الكود مرة ثانية</string>
+    <string name="Contact_us">پەیوەندیمان پێ بکە</string>
+
+</resources>
